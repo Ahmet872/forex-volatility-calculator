@@ -1,0 +1,17 @@
+{"mt5":{
+ "host": "localhost",
+ "port": 5555,
+ "timeout": 30},
+  "symbols": [
+    "EURUSD",
+    "GBPUSD",
+    "USDJPY",
+    "AUDUSD"],
+  "timeframe": "M1",
+  "candles_count": 100,
+  "atr_period": 14,
+  "hv_period": 20,
+  "output":  {
+    "format": "json",
+    "show_details": true}}
+  
